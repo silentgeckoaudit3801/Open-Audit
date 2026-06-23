@@ -92,7 +92,7 @@
     "swagger-ui-react": "^5.32.6",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
-    "three": "^0.179.0",
+    "three": "^0.184.0",
     "to-buffer": "^1.2.2",
     "until-async": "^3.0.2",
     "util-deprecate": "^1.0.2",
